@@ -4,6 +4,14 @@
   "private": true,
   "description": "A historical city-building strategy game about rebuilding Constantinople after the Nika revolt.",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/titans-forge/Titans-of-War-Ashes-of-Nika.git"
+  },
+  "bugs": {
+    "url": "https://github.com/titans-forge/Titans-of-War-Ashes-of-Nika/issues"
+  },
+  "homepage": "https://titans-forge.itch.io/titans-of-war-ashes-of-nika",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

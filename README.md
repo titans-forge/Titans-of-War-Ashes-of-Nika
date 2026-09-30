@@ -1,5 +1,16 @@
 # Titans of Constantinople: Ashes of Nika
 
+[Play on itch.io](https://titans-forge.itch.io/titans-of-war-ashes-of-nika) ·
+[Forge source](https://github.com/titans-forge/Titans-of-War-Ashes-of-Nika) ·
+[Report an issue](https://github.com/titans-forge/Titans-of-War-Ashes-of-Nika/issues) ·
+[Game collection](https://github.com/titans-forge/educational-games)
+
+This is the Ashes of Nika entry in the Titans of War collection. The existing
+repository moved from JCapone83 to Titans Forge on September 30, 2026, retaining
+its history and licensing checkpoints. Historical owner names in those records
+remain intentional; earlier MIT grants and separate media rights are preserved.
+The source branch is not certified to match the current itch.io build.
+
 A deterministic historical city-building strategy game about rebuilding Constantinople after the Nika revolt. The player governs twelve seasons from winter 532 through autumn 534, balancing urban recovery against factional politics, frontier security, and the opening of Justinian's western wars.
 
 The game does not require an account, server, or AI model. Campaign state is stored only in the browser.
@@ -7,6 +18,8 @@ The game does not require an account, server, or AI model. Campaign state is sto
 ## Play
 
 ```bash
+git clone https://github.com/titans-forge/Titans-of-War-Ashes-of-Nika.git
+cd Titans-of-War-Ashes-of-Nika
 npm install
 npm run dev
 ```
